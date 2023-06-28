@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gustavoandreav
 - 👀 I’m interested in backend development, DevOps and Cloud Computing
 - 🌱 I’m currently learning Python, Java
-- 💞️ I’m looking to collaborate on Python projects
+- 💞️ I’m looking to collaborate on Java and Python projects
 
 
 <!---
