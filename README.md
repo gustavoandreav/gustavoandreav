@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @gustavoandreav
-- I'm a software engineer with previous experience in fullstack development using Java, Spring Boot and React
-- Currently focusing on learning about React, NodeJS, DevOps and Cloud
+- 👋 Hi, I’m @gustavoandre
 
 
 
